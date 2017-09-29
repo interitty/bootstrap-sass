@@ -1,0 +1,13 @@
+{
+    "name": "interitty/bootstrap-sass",
+    "description": "Basic template based on Twitter Bootstrap for the consistent look of all Interitty projects.",
+    "keywords": ["interitty", "twitter bootstrap", "css", "sass"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Železný",
+            "email": "pavel.zelezny@interitty.org"
+        }
+    ]
+}
